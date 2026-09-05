@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60">
+  <defs>
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2F6FED"/>
+      <stop offset="100%" stop-color="#0E9F6E"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="20" width="60" height="20" rx="10" fill="url(#brandGradient)"/>
+  <circle cx="46" cy="30" r="7" fill="#FBFAF7"/>
+  <text x="72" y="40" font-family="Georgia, serif" font-size="30" font-weight="600" fill="#0B1220">Flicky</text>
+</svg>
